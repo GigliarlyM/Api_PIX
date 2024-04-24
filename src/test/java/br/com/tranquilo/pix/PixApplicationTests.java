@@ -1,4 +1,4 @@
-package br.com.tranquilo.Pix;
+package br.com.tranquilo.pix;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

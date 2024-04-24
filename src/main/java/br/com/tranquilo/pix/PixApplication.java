@@ -1,4 +1,4 @@
-package br.com.tranquilo.Pix;
+package br.com.tranquilo.pix;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
